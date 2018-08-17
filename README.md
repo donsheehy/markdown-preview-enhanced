@@ -22,6 +22,10 @@
 
 _Still Beta Version!_
 
+## About the fork
+
+I love this project so much that I wanted to integrate it into my book writing process.  I have forked the repository to experiment with features that I think will be useful.
+
 ## Supporting this project
 
 Markdown Preview Enhanced is an open source project released under the [University of Illinois/NCSA Open Source License](LICENSE.md). Its ongoing development is made possible thanks to the support by these awesome [backers](https://shd101wyy.github.io/markdown-preview-enhanced/#/backers). You can help make this project better by [supporting us on Patreon](https://www.patreon.com/shd101wyy), [PayPal](https://shd101wyy.github.io/markdown-preview-enhanced/#/paypal), or [微信支付 Wechat Pay](https://shd101wyy.github.io/markdown-preview-enhanced/#/wechat). Thank you!
